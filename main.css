@@ -1,0 +1,36 @@
+h1{
+	color: pink;
+	font-size: 50px;
+	font-family: 'Georgia', serif
+}
+h3{
+	color:green ;
+	font-size: 25px;
+	font-family: 'Calibri', serif
+}
+#a {
+	color: gold;
+}
+#b {
+	color: silver;
+}
+#c {
+	color: gold;
+}
+#d {
+	color: silver;
+}
+#e {
+	color: gold;
+}
+#f {
+	color: silver;
+}
+
+img {
+	width:50%;
+	margin-left: 0%;
+	border: 5px;
+	border-style: dotted;
+	border-color: pink;
+}
